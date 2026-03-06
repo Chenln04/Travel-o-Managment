@@ -20,5 +20,5 @@ In this project, I acted as the bridge between the technical requirements and th
 * **Conflict Resolution:** Managing different opinions on design vs. functionality to meet the final submission date.
 
 ## 📂 Deliverables
-* **[Comprehensive Project Report (PDF)](./Travel-o_Final_Project_Report.pdf):** The full document containing the business model, technical architecture, and UI/UX research.
+* **[Comprehensive Project Report (PDF)](./Travel-o_FinalProject_Report.pdf):** The full document containing the business model, technical architecture, and UI/UX research.
 * **Conceptual Roadmap:** The phases we followed from ideation to the final presentation.
