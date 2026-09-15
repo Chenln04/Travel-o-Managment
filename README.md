@@ -1,7 +1,7 @@
-# ✈️ Travel-o: AI-Driven Product Coordination
+# Travel-o: AI-Driven Product Coordination
 **Technical Project Management Simulation | Multimedia Engineering (UPV)**
 
-## 📌 Project Overview
+## Project Overview
 Travel-o is an AI-powered platform designed to automate end-to-end travel planning. This project simulates the lifecycle of a tech startup, from initial business case and resource budgeting to technical roadmap execution and risk mitigation.
 
 * **Role:** Technical Project Coordinator.
@@ -10,7 +10,7 @@ Travel-o is an AI-powered platform designed to automate end-to-end travel planni
 
 ---
 
-## 👔 Leadership & Methodology
+## Leadership & Methodology
 In this project, I acted as the bridge between technical engineering and product vision. I focused on:
 
 * **Team Alignment:** Managed a 124-day schedule using **Microsoft Project**, ensuring all milestones were met on time.
